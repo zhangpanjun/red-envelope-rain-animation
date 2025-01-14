@@ -1,6 +1,6 @@
 {
   "name": "red-envelope-rain-animation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "内部原生 js 实现，可支持跨框架引用，包括倒计时动效。可自定义红包图片倒计时时长等",
   "main": "index.js",
   "scripts": {

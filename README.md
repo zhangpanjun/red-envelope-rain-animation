@@ -4,6 +4,8 @@
 
 # 使用方式
 
+安装：
+`npm install red-envelope-rain-animation`
 引入：
 `import RedEnvelopeRainAnimation from 'red-envelope-rain-animation';`
 
