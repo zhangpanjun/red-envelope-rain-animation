@@ -94,7 +94,7 @@ export default class RedEnvelopeRainAnimation {
 	#space = 300; // 生成红包间隔  最小300 加判断了
 	#speed_max = 5; // 红包下落速度随机值__最大值
 	#speed_min = 1; // 红包下落速度随机值__最小值
-	#red_img_src = 'http://www.makinokun.cn/assets/image/icon.jpg'; //红包图片
+	#red_img_src = 'http://www.makinokun.cn/assets/otherSource/red-envelope-rain-animation/image/bag.png'; //红包图片
 	#red_img_ratio = 1; // 红包宽高比例
 	#duration = 5; // 红包雨下落时长
 	#activityTheme = '红包'; // 活动主题
@@ -156,7 +156,7 @@ export default class RedEnvelopeRainAnimation {
                 border-radius: 50%;
                 left: 0;
                 top: 26px;
-                background-image: url("http://www.makinokun.cn/assets/image/icon.jpg");
+                background-image: url("http://www.makinokun.cn/assets/otherSource/red-envelope-rain-animation/image/slider-bg.png");
                 background-size: cover;
                 font-family: Bebas;
                 font-weight: 400;
